@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712338905 source:c:\users\hp\onedrive - virginia tech\documents\c++\project1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
