@@ -38,7 +38,7 @@ REPORT AVERAGE
 REPORT SUM
 REPORT COUNT
 QUIT
-
+```
 ## 📝 Notes
 
 - If a data file is already open, it is **exhausted** before opening a new one (remaining values are read and skipped).
