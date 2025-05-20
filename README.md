@@ -30,11 +30,13 @@ The program reads a command file that contains a sequence of operations to perfo
 
 ## 🧪 Example Command File
 
+```plaintext
 OPEN data1.txt
 ADD 5
 SUB 2
 REPORT AVERAGE
 REPORT SUM
+REPORT COUNT
 QUIT
 
 ## 📝 Notes
