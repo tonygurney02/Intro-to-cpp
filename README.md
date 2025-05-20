@@ -37,12 +37,6 @@ REPORT AVERAGE
 REPORT SUM
 QUIT
 
-## 🛠️ Requirements
-
-- C++ compiler (e.g., `g++`)
-- Console access
-- Command and data files in the same directory or with a valid path
-
 ## 📝 Notes
 
 - If a data file is already open, it is **exhausted** before opening a new one (remaining values are read and skipped).
